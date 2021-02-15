@@ -1,2 +1,2 @@
-# DepplTraductionContextMenus
-Racourci pour deppl extention chrome
+# DeeplTraductionContextMenus
+Racourci pour deepl extention chrome

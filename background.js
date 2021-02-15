@@ -8,4 +8,4 @@ function search(info)
  chrome.tabs.create({url: "https://www.deepl.com/fr/translator#en/fr/" + searchstring})
 }
 
-chrome.contextMenus.create({title: "Deppl en>fr", contexts:["selection"], onclick: search});
+chrome.contextMenus.create({title: "Deepl en->fr", contexts:["selection"], onclick: search});
